@@ -2,7 +2,7 @@
 - 👀 I’m interested in K8S, Helm and coding in general
 - 🌱 I’m currently learning Julia and K8S
 - 💞️ I’m looking to collaborate on <not yet smart enough>
-- 📫 How to reach me <I will add later>
+- 📫 How to reach me --> masses-acrobat.6a@icloud.com
 - lately more busy with python again :-)
 
 <!---
