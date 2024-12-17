@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Julia and K8S
 - 💞️ I’m looking to collaborate on <not yet smart enough>
 - 📫 How to reach me <I will add later>
+- lately more busy with python again :-)
 
 <!---
 mjtkeijsers/mjtkeijsers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
